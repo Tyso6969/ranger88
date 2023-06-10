@@ -1,0 +1,26 @@
+.body_backgorund 
+{
+    background-image:url("backg.jpg");
+    background-position:center;
+    background-size:cover;
+    width: 100%;
+    height: 750px;
+}
+#myCanvas
+{
+    border-width: 2px;
+    background-color: rgb(0, 0, 0); 
+    border-style:solid;
+}
+
+h2
+{
+	width: 1000px;
+	background-color: rgb(0, 0, 0);
+	display: inline-block;
+    color: rgb(255, 255, 255);
+}
+i{
+    color: rgb(255, 255, 255);
+}
+
